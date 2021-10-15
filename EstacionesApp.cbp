@@ -34,15 +34,15 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="../../PARCIAL1labo/punto2/EstacionesApp/Fecha.cpp" />
-		<Unit filename="../../PARCIAL1labo/punto2/EstacionesApp/Fecha.h" />
-		<Unit filename="../../PARCIAL1labo/punto2/EstacionesApp/ResumenDiario.cpp" />
-		<Unit filename="../../PARCIAL1labo/punto2/EstacionesApp/ResumenDiario.h" />
-		<Unit filename="../../PARCIAL1labo/punto2/EstacionesApp/include/Estacion.h" />
-		<Unit filename="../../PARCIAL1labo/punto2/EstacionesApp/main.cpp" />
-		<Unit filename="../../PARCIAL1labo/punto2/EstacionesApp/parcial.h" />
-		<Unit filename="../../PARCIAL1labo/punto2/EstacionesApp/parcial1.cpp" />
-		<Unit filename="../../PARCIAL1labo/punto2/EstacionesApp/src/Estacion.cpp" />
+		<Unit filename="Fecha.cpp" />
+		<Unit filename="Fecha.h" />
+		<Unit filename="ResumenDiario.cpp" />
+		<Unit filename="ResumenDiario.h" />
+		<Unit filename="include/Estacion.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="parcial.h" />
+		<Unit filename="parcial1.cpp" />
+		<Unit filename="src/Estacion.cpp" />
 		<Extensions />
 	</Project>
 </CodeBlocks_project_file>

@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1634161862 source:/home/angel/UTN/LAB2/EstacionesApp/Fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1634161810 /home/angel/UTN/LAB2/EstacionesApp/Fecha.h
+
+1634163200 source:/home/angel/UTN/LAB2/EstacionesApp/main.cpp
+	<iostream>
+	"ResumenDiario.h"
+
+1634162454 /home/angel/UTN/LAB2/EstacionesApp/ResumenDiario.h
+	"Fecha.h"
+
+1634162500 source:/home/angel/UTN/LAB2/EstacionesApp/ResumenDiario.cpp
+	<iostream>
+	"ResumenDiario.h"
+
+1634161862 source:/home/fedemeju/Desktop/PARCIAL1labo/punto2/EstacionesApp/Fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1634161810 /home/fedemeju/Desktop/PARCIAL1labo/punto2/EstacionesApp/Fecha.h
+
+1634266350 source:/home/fedemeju/Desktop/PARCIAL1labo/punto2/EstacionesApp/main.cpp
+	<iostream>
+	"ResumenDiario.h"
+	"parcial.h"
+	"Estacion.h"
+
+1634249784 /home/fedemeju/Desktop/PARCIAL1labo/punto2/EstacionesApp/ResumenDiario.h
+	"Fecha.h"
+
+1634251248 source:/home/fedemeju/Desktop/PARCIAL1labo/punto2/EstacionesApp/ResumenDiario.cpp
+	<iostream>
+	"ResumenDiario.h"
+	"parcial.h"
+
+1634253438 /home/fedemeju/Desktop/PARCIAL1labo/punto2/EstacionesApp/parcial.h
+
+1634265755 source:/home/fedemeju/Desktop/PARCIAL1labo/punto2/EstacionesApp/parcial1.cpp
+	<iostream>
+	"parcial.h"
+	"ResumenDiario.h"
+	"Estacion.h"
+
+1634266118 source:/home/fedemeju/Desktop/PARCIAL1labo/punto2/EstacionesApp/src/Estacion.cpp
+	<iostream>
+	"Estacion.h"
+
+1634266138 /home/fedemeju/Desktop/PARCIAL1labo/punto2/EstacionesApp/include/Estacion.h
+
